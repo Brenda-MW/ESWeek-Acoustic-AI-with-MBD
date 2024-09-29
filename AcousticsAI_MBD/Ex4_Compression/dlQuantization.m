@@ -1,2 +1,0 @@
-% data format modification
-deepNetworkQuantizer
